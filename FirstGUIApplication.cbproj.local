@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/05/07 12:15:34.749,=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/05/07 12:15:34.823,=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/07 12:29:52.826,C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstCppGUIApp.fmx=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2023/05/07 12:29:52.826,C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstCppGUIApp.cpp=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/05/07 12:29:52.826,C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstCppGUIApp.h=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/05/07 15:26:36.316,C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstGUIApplicationPCH1.h=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/05/07 15:26:36.325,C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstGUIApplication.cbproj=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/05/07 15:29:54.527,C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstGUIApplication.cbproj=C:\Users\Rushikesh\Documents\Embarcadero\Studio\Projects\FirstGUIApplication.cbproj</Transaction>
+  </Transactions>
+  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="FirstGUIApplication.cpp"/>
+    <File Path="FirstCppGUIApp.cpp"/>
+    <File Path="FirstCppGUIApp.cpp"/>
+    <File Path="FirstCppGUIApp.fmx"/>
+    <File Path="FirstCppGUIApp.h"/>
+    <File Path="FirstGUIApplicationPCH1.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
